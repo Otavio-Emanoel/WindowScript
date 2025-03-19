@@ -17,6 +17,7 @@
         height: 40px;
         font-size: 22px;
         background-color: #0101012d;
+        cursor: pointer;
         transition: all ease-in-out .3s;
         
         &:hover {
